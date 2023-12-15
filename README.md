@@ -16,7 +16,7 @@ I'm a passionate Java Spring Boot developer with proficiency in building scalabl
 
 ## Skills
 - Java | Spring Boot | Spring Security | Spring Cloud
-- Docker | Kubernetes | Kafka | AWS
+- Microservices | Docker | Kubernetes | Kafka | AWS
 - JavaScript | TypeScript | HTML | CSS | Angular | Angular Material
 
 ## Current Focus
